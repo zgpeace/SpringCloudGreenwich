@@ -6,10 +6,10 @@
 * IDE: IntelliJ IDEA
 
 
-| #    | 文章                                    | 说明                                      |
+| #    | 文章                                    | 下载                                      |
 | :--- | :--------------------------------------- | :--------------------------------------- |
 | 1    | [SpringCloud Greenwich架构概览深度详解][001] |                         |
-| 2    | [Spring Cloud Greenwich Eureka：服务注册与发现][002] |                         |
+| 2    | [Spring Cloud Greenwich Eureka：服务注册与发现][002] |    [demo][00201]                     |
 
 
 如果文章对您有所帮助，帮忙顺手STAR.<br>
@@ -17,3 +17,4 @@
 
 [001]: https://blog.csdn.net/zgpeace/article/details/104121183
 [002]: https://blog.csdn.net/zgpeace/article/details/104237673
+[00201]:https://github.com/zgpeace/SpringCloudGreenwich/tree/master/Eureka
